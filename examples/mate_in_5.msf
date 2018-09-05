@@ -1,0 +1,150 @@
+{
+    "aptex": {
+        "ladan": "古城みの"
+    },
+    "fixt": {
+        "pit": "rsiila",
+        "vastan": "arxe"
+    },
+    "kit": {
+        "slax": {
+            "sast": "arxe",
+            "arxe": {"txifol": [], "evol": "len"},
+            "sorn": {"txifol": [], "evol": "dyu"},
+            "ele": [
+                [ null,  null,  null,  null,  null, "ral", "dia"],
+                [ null, "ket", "din", "mir",  null,  null,  null],
+                [ null,  null,  null,  null, "tem",  null,  null],
+                [ null,  null,  null,  null,  null,  null, "ser"],
+                [ null,  null,  null, "fav",  null,  null,  null],
+                [ null,  null,  null,  null,  null,  null,  null],
+                [ null,  null,  null,  null,  null,  null,  null]
+            ],
+            "korol": []
+        },
+        "fala": 0,
+        "mit": []
+    },
+    "seslax": [
+        {
+            "ov": {
+                "pit": "leim",
+                "luul": [
+                    {"i": {"alsia": 5, "soom": 0}, "a": {"alsia": 3, "soom": 0}}
+                ]
+            },
+            "slax": {
+                "sast": "sorn",
+                "arxe": {"txifol": [], "evol": "len"},
+                "sorn": {"txifol": [], "evol": "dyu"},
+                "ele": [
+                    [ null,  null,  null, "ral",  null,  null, "dia"],
+                    [ null, "ket", "din", "mir",  null,  null,  null],
+                    [ null,  null,  null,  null, "tem",  null,  null],
+                    [ null,  null,  null,  null,  null,  null, "ser"],
+                    [ null,  null,  null, "fav",  null,  null,  null],
+                    [ null,  null,  null,  null,  null,  null,  null],
+                    [ null,  null,  null,  null,  null,  null,  null]
+                ],
+                "korol": []
+            },
+            "mit": []
+        },
+        {
+            "ov": {
+                "pit": "leim",
+                "luul": [
+                    {"i": {"alsia": 3, "soom": 1}, "a": {"alsia": 3, "soom": 0}}
+                ]
+            },
+            "slax": {
+                "sast": "arxe",
+                "arxe": {"txifol": [], "evol": "len"},
+                "sorn": {"txifol": ["ral"], "evol": "dyu"},
+                "ele": [
+                    [ null,  null,  null, "mir",  null,  null, "dia"],
+                    [ null, "ket", "din",  null,  null,  null,  null],
+                    [ null,  null,  null,  null, "tem",  null,  null],
+                    [ null,  null,  null,  null,  null,  null, "ser"],
+                    [ null,  null,  null, "fav",  null,  null,  null],
+                    [ null,  null,  null,  null,  null,  null,  null],
+                    [ null,  null,  null,  null,  null,  null,  null]
+                ],
+                "korol": []
+            },
+            "mit": []
+        },
+        {
+            "ov": {
+                "pit": "leim",
+                "luul": [
+                    {"i": {"alsia": 3, "soom": 4}, "a": {"alsia": 3, "soom": 2}}
+                ]
+            },
+            "slax": {
+                "sast": "sorn",
+                "arxe": {"txifol": [], "evol": "len"},
+                "sorn": {"txifol": ["ral"], "evol": "dyu"},
+                "ele": [
+                    [ null,  null,  null, "mir",  null,  null, "dia"],
+                    [ null, "ket", "din",  null,  null,  null,  null],
+                    [ null,  null,  null, "fav", "tem",  null,  null],
+                    [ null,  null,  null,  null,  null,  null, "ser"],
+                    [ null,  null,  null,  null,  null,  null,  null],
+                    [ null,  null,  null,  null,  null,  null,  null],
+                    [ null,  null,  null,  null,  null,  null,  null]
+                ],
+                "korol": []
+            },
+            "mit": []
+        },
+        {
+            "ov": {
+                "pit": "leim",
+                "luul": [
+                    {"i": {"alsia": 3, "soom": 0}, "a": {"alsia": 2, "soom": 0}}
+                ]
+            },
+            "slax": {
+                "sast": "arxe",
+                "arxe": {"txifol": [], "evol": "len"},
+                "sorn": {"txifol": ["ral"], "evol": "dyu"},
+                "ele": [
+                    [ null,  null, "mir",  null,  null,  null, "dia"],
+                    [ null, "ket", "din",  null,  null,  null,  null],
+                    [ null,  null,  null, "fav", "tem",  null,  null],
+                    [ null,  null,  null,  null,  null,  null, "ser"],
+                    [ null,  null,  null,  null,  null,  null,  null],
+                    [ null,  null,  null,  null,  null,  null,  null],
+                    [ null,  null,  null,  null,  null,  null,  null]
+                ],
+                "korol": []
+            },
+            "mit": []
+        },
+        {
+            "ov": {
+                "pit": "leim",
+                "luul": [
+                    {"i": {"alsia": 6, "soom": 0}, "a": {"alsia": 4, "soom": 2}}
+                ]
+            },
+            "slax": {
+                "sast": "sorn",
+                "arxe": {"txifol": [], "evol": "len"},
+                "sorn": {"txifol": ["ral"], "evol": null},
+                "ele": [
+                    [ null,  null, "mir",  null,  null,  null, "tem"],
+                    [ null, "ket", "din",  null,  null,  null,  null],
+                    [ null,  null,  null, "fav", "dia",  null,  null],
+                    [ null,  null,  null,  null,  null,  null, "ser"],
+                    [ null,  null,  null,  null,  null,  null,  null],
+                    [ null,  null,  null,  null,  null,  null,  null],
+                    [ null,  null,  null,  null,  null,  null,  null]
+                ],
+                "korol": []
+            },
+            "mit": []
+        }
+    ]
+}
