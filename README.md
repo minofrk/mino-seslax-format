@@ -1,4 +1,4 @@
-Mino Seslax Format 0.0
+Mino Seslax Format 0.1
 ===============================================================================
 
 シェルトに関する諸々を機械で保存したり送受信する際に便利なデータ形式について考えたものをとりあえずまとめた文書です。主に棋譜形式に関する文書ですが、局面と指し手の形式についても扱っています。
@@ -179,22 +179,22 @@ Mino Seslax Format 0.0
 
 型名     | 定義
 ---------|------
-`Result` | `Result.RsiilaOrTeomsast \| Result.Hacma \| Result.Daim`
+`Result` | `Result.XeltsoldesOrTeomsast \| Result.Artansoldes \| Result.Daim`
 
-#### `Result.RsiilaOrTeomsast` 型（ルシーラチェック，千日手）
+#### `Result.XeltsoldesOrTeomsast` 型（月駒が取られた，千日手）
 
 プロパティ | 型                       | 意味
 -----------|--------------------------|------
-`pit`      | `"rsiila" \| "teomsast"` |
+`pit`      | `"xeltsoldes" \| "teomsast"` |
 `vastan`   | `Player`                 | 勝者
 `im?`      | `DateString`             | 結果が決まった日時
 `oprens?`  | `string`                 | コメント
 
-#### `Result.Hacma` 型（ハルマチェック）
+#### `Result.Artansoldes` 型（すべての魔駒が取られた）
 
 プロパティ | 型                      | 意味
 -----------|-------------------------|------
-`pit`      | `"hacma"`               |
+`pit`      | `"artansoldes"`         |
 `vastan`   | `Player`                | 勝者
 `ito`      | `0 \| 1 \| 2 \| 3 \| 4` | 勝ち点
 `im?`      | `DateString`            | 結果が決まった日時
